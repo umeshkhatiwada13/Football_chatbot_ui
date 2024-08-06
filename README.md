@@ -45,7 +45,7 @@ Users can ask the chatbot questions related to football, such as player statisti
 ## Setup and Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/football-chatbot.git
+   git clone https://github.com/umeshkhatiwada13/football-chatbot.git
    ```
 2. Navigate to the project directory:
    ```bash

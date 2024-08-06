@@ -48,19 +48,23 @@ Users can ask the chatbot questions related to football, such as player statisti
    git clone https://github.com/your-username/football-chatbot.git
    ```
 2. Navigate to the project directory:
- ```bash
+   ```bash
    cd football-chatbot
-```
+   ```
 3. Navigate to the project directory:
- ```bash
+   ```bash
    cd football-chatbot
+   ```
 4. Navigate to the project directory:
- ```bash
+   ```bash
    cd football-chatbot
+   ```
 5. Install the required dependencies:
- ```bash
+   ```bash
    pip install -r requirements.txt
+   ```
 6. Run the Flask application:
- ```bash
+   ```bash
    python server.py
+   ```
 
